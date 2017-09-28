@@ -65,6 +65,7 @@ public class JavaLessonTwelve {
 		
 		System.out.println(Arrays.toString(nameArray));
 		
+		names.clear();
 		
 	}
 	
